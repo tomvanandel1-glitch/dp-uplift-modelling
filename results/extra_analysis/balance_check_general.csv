@@ -1,0 +1,33 @@
+comparison,covariate,Mens E-Mail,No E-Mail,SMD,p_value,Womens E-Mail,Email,Control,test
+Mens E-Mail vs No E-Mail,recency,5.7253,5.744,0.0053,0.645,,,,
+Mens E-Mail vs No E-Mail,history,243.4669,238.6644,0.0187,0.1073,,,,
+Mens E-Mail vs No E-Mail,mens,0.5528,0.5522,0.0011,0.9229,,,,
+Mens E-Mail vs No E-Mail,womens,0.5494,0.546,0.0068,0.5598,,,,
+Mens E-Mail vs No E-Mail,newbie,0.5012,0.5001,0.0022,0.8526,,,,
+Womens E-Mail vs No E-Mail,recency,,5.744,0.0155,0.1812,5.7981,,,
+Womens E-Mail vs No E-Mail,history,,238.6644,0.0154,0.1832,242.5564,,,
+Womens E-Mail vs No E-Mail,mens,,0.5522,0.0026,0.8229,0.5509,,,
+Womens E-Mail vs No E-Mail,womens,,0.546,0.0034,0.7696,0.5477,,,
+Womens E-Mail vs No E-Mail,newbie,,0.5001,0.0,0.9999,0.5001,,,
+Mens E-Mail vs Womens E-Mail,recency,5.7253,,0.0208,0.0728,5.7981,,,
+Mens E-Mail vs Womens E-Mail,history,243.4669,,0.0035,0.7613,242.5564,,,
+Mens E-Mail vs Womens E-Mail,mens,0.5528,,0.0037,0.7484,0.5509,,,
+Mens E-Mail vs Womens E-Mail,womens,0.5494,,0.0034,0.7706,0.5477,,,
+Mens E-Mail vs Womens E-Mail,newbie,0.5012,,0.0022,0.8523,0.5001,,,
+Email vs Control,recency,,,0.0051,0.6103,,5.7619,5.744,
+Email vs Control,history,,,0.017,0.0877,,243.0094,238.6644,
+Email vs Control,mens,,,0.0007,0.941,,0.5519,0.5522,
+Email vs Control,womens,,,0.0051,0.6135,,0.5485,0.546,
+Email vs Control,newbie,,,0.0011,0.915,,0.5007,0.5001,
+Mens E-Mail vs No E-Mail,history_segment,,,,0.1823,,,,chi-square
+Mens E-Mail vs No E-Mail,zip_code,,,,0.4636,,,,chi-square
+Mens E-Mail vs No E-Mail,channel,,,,0.7225,,,,chi-square
+Womens E-Mail vs No E-Mail,history_segment,,,,0.5612,,,,chi-square
+Womens E-Mail vs No E-Mail,zip_code,,,,0.9858,,,,chi-square
+Womens E-Mail vs No E-Mail,channel,,,,0.9091,,,,chi-square
+Mens E-Mail vs Womens E-Mail,history_segment,,,,0.2975,,,,chi-square
+Mens E-Mail vs Womens E-Mail,zip_code,,,,0.5133,,,,chi-square
+Mens E-Mail vs Womens E-Mail,channel,,,,0.5582,,,,chi-square
+Email vs Control,history_segment,,,,0.3459,,,,chi-square
+Email vs Control,zip_code,,,,0.7416,,,,chi-square
+Email vs Control,channel,,,,0.9177,,,,chi-square

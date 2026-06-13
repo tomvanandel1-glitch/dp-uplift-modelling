@@ -1,0 +1,3 @@
+Variant,Mean ρ,SD ρ,Mean Qini,SD Qini,Degenerate runs
+imbalance_10,0.1576,0.0443,10.18,3.71,0/10
+imbalance_35,0.2547,0.1057,15.62,16.33,0/10

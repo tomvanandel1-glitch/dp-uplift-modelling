@@ -1,0 +1,22 @@
+variant,comparison,covariate,Email,Control,SMD,p_value,test
+imbalance_baseline,Email vs Control,recency,5.7619,5.744,0.0051,0.6103,
+imbalance_baseline,Email vs Control,history,243.0094,238.6644,0.017,0.0877,
+imbalance_baseline,Email vs Control,mens,0.5519,0.5522,0.0007,0.941,
+imbalance_baseline,Email vs Control,womens,0.5485,0.546,0.0051,0.6135,
+imbalance_20,Email vs Control,recency,5.8635,5.8057,0.0165,0.0996,
+imbalance_20,Email vs Control,history,208.3378,207.4981,0.0043,0.6667,
+imbalance_20,Email vs Control,mens,0.5485,0.54,0.0169,0.0911,
+imbalance_20,Email vs Control,womens,0.539,0.5448,0.0116,0.2459,
+imbalance_05,Email vs Control,recency,5.9137,5.8782,0.0101,0.312,
+imbalance_05,Email vs Control,history,190.8574,190.2063,0.0043,0.6651,
+imbalance_05,Email vs Control,mens,0.5447,0.5371,0.0153,0.1279,
+imbalance_05,Email vs Control,womens,0.5379,0.54,0.0043,0.669,
+imbalance_baseline,Email vs Control,history_segment,,,,0.3459,chi-square
+imbalance_baseline,Email vs Control,zip_code,,,,0.7416,chi-square
+imbalance_baseline,Email vs Control,channel,,,,0.9177,chi-square
+imbalance_20,Email vs Control,history_segment,,,,0.0277,chi-square
+imbalance_20,Email vs Control,zip_code,,,,0.3447,chi-square
+imbalance_20,Email vs Control,channel,,,,0.1099,chi-square
+imbalance_05,Email vs Control,history_segment,,,,0.0296,chi-square
+imbalance_05,Email vs Control,zip_code,,,,0.0043,chi-square
+imbalance_05,Email vs Control,channel,,,,0.0483,chi-square

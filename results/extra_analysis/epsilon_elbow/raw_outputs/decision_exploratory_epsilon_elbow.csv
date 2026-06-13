@@ -1,0 +1,2 @@
+variant,rho_plateau,sd_plateau,rho_cutoff_90pct,sd_cutoff_2x,epsilon_star,fallback_used
+size_100,0.38014431944682475,0.00868042035975275,0.3421298875021423,0.0173608407195055,0.5,True
